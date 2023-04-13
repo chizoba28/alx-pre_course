@@ -1,2 +1,1 @@
-I am a beautiful girl child
-my first readme
+i am happy but stressed
